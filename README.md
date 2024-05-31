@@ -22,7 +22,8 @@ https://documenter.getpostman.com/view/29363005/2sA3QtcqeD
 
 ## Output:
 
-![image](https://github.com/fariahasan190/DmoneyAPITesting/assets/171376643/51ce4d47-e3c8-49f1-8a3b-43d2f90eacb5)
+![image](https://github.com/fariahasan190/DmoneyAPITesting/assets/171376643/b4d5b3c7-54f6-4c3c-8bc4-37a5943ff746)
+
 
 
 
