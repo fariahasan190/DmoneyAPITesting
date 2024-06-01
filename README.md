@@ -6,7 +6,7 @@
 - newman-html-extra
 ## How to run?
 ### Execute following commands:
-- ``` git clone <repo_url> ```
+- ``` git clone https://github.com/fariahasan190/DmoneyAPITesting.git ```
 - ``` npm i ```
 - ``` add the .env file (on request) ```
 - ``` node report.js ```
